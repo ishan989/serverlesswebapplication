@@ -14,7 +14,6 @@ A simple serverless application that increments a view counter every time it's a
 
 ## Architecture
 
-<img width="638" alt="image" src="https://github.com/user-attachments/assets/c82da4e7-1c6f-4b3c-80ed-cf3b064922d6" />
 
 - **S3**: Hosts the static files for the application.
 - **CloudFront**: Distributes the application globally with low latency.
@@ -23,7 +22,7 @@ A simple serverless application that increments a view counter every time it's a
 
 ### Architecture Diagram
 
-
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/c82da4e7-1c6f-4b3c-80ed-cf3b064922d6" />
 
 ## Prerequisites
 
